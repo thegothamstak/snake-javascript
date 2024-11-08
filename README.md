@@ -1,5 +1,8 @@
 # snake-javascript
 
+Game is live on,
+https://thegothamstak.github.io/snake-javascript/
+
 # Snake Game - Vanilla JavaScript
 
 This is a simple **Snake Game** built with **vanilla JavaScript**, HTML, and CSS. The game features the classic mechanics of the snake, where you control the snake to eat food, grow in size, and avoid running into walls or yourself.
@@ -15,7 +18,6 @@ The project consists of the following files:
 - Arrow key controls to navigate the snake.
 - The snake grows each time it eats food.
 - The game ends when the snake collides with a wall or itself.
-- Simple and responsive game design.
 
 ## Project Setup
 
